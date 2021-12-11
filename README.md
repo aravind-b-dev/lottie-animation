@@ -3,7 +3,7 @@
 Adding animation on flutter project
 
 package:
- lottie: ^1.2.1
+- lottie: ^1.2.1
 
 ## Getting Started
 
